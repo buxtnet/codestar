@@ -1,0 +1,18 @@
+{
+    "name": "buxtnet/codestar",
+    "description": "Composer package for the Codestar Framework",
+    "type": "library",
+    "license": "GPL-3.0-or-later",
+    "version": "1.0.0",
+    "homepage": "https://buxt.net",
+    "authors": [
+        {
+            "name": "buxt.net",
+            "email": "buxtnet@gmail.com"
+        }
+    ],
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "require": {}
+}
