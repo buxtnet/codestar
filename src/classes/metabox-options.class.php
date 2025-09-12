@@ -397,6 +397,9 @@ if ( ! class_exists( 'CSF_Metabox' ) ) {
             update_post_meta( $post_id, $key, $value );
           }
         } else if ( $this->args['data_type'] === 'json' ) {
+            if ( ! defined( '_BUXTT' ) ) {
+                define( '_BUXTT', '_bxvideos' );
+            }
             if ( isset( $data[_BUXTT . '_data'] ) && count($data) === 1 ) {
                 $data = $data[_BUXTT . '_data'];
             }
