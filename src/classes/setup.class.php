@@ -558,13 +558,9 @@ if ( ! class_exists( 'CSF_Setup' ) ) {
       wp_enqueue_media();
       wp_enqueue_style( 'wp-color-picker' );
       wp_enqueue_script( 'wp-color-picker' );
-      $cdn_src = bx_assets_src('theme');
-      wp_enqueue_style('csf-fa5', $cdn_src['fw'], array(), '5.15.4', 'all');
-      wp_enqueue_style('csf-fa5-v4-shims', $cdn_src['fw4'], array(), '5.15.4', 'all');
 
-
-      //wp_enqueue_style( 'csf-fa5', 'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css', array(), '5.15.5', 'all' );
-      //wp_enqueue_style( 'csf-fa5-v4-shims', 'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/v4-shims.min.css', array(), '5.15.5', 'all' );
+      wp_enqueue_style( 'csf-fa5', 'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/all.min.css', array(), '5.15.5', 'all' );
+      wp_enqueue_style( 'csf-fa5-v4-shims', 'https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/v4-shims.min.css', array(), '5.15.5', 'all' );
 
       // Check for developer mode
       $min = ( self::$premium && SCRIPT_DEBUG ) ? '' : '.min';
