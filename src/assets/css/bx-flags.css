@@ -1,0 +1,956 @@
+.bx {
+    display: inline-block;
+    width: 16px;
+    height: 16px;
+    background-repeat: no-repeat;
+    background-size: contain;
+    vertical-align: middle;
+}
+
+.bx.lang-ax {
+    background-image: url(../images/svg/bx-ax.svg);
+}
+
+.bx.lang-af {
+    background-image: url(../images/svg/bx-af.svg);
+}
+
+.bx.lang-al {
+    background-image: url(../images/svg/bx-al.svg);
+}
+
+.bx.lang-dz {
+    background-image: url(../images/svg/bx-dz.svg);
+}
+
+.bx.lang-ad {
+    background-image: url(../images/svg/bx-ad.svg);
+}
+
+.bx.lang-ao {
+    background-image: url(../images/svg/bx-ao.svg);
+}
+
+.bx.lang-ai {
+    background-image: url(../images/svg/bx-ai.svg);
+}
+
+.bx.lang-aq {
+    background-image: url(../images/svg/bx-aq.svg);
+}
+
+.bx.lang-antigua-barbuda {
+    background-image: url(../images/svg/bx-antigua-barbuda.svg);
+}
+
+.bx.lang-ar {
+    background-image: url(../images/svg/bx-ar.svg);
+}
+
+.bx.lang-am {
+    background-image: url(../images/svg/bx-am.svg);
+}
+
+.bx.lang-aw {
+    background-image: url(../images/svg/bx-aw.svg);
+}
+
+.bx.lang-au {
+    background-image: url(../images/svg/bx-au.svg);
+}
+
+.bx.lang-at {
+    background-image: url(../images/svg/bx-at.svg);
+}
+
+.bx.lang-az {
+    background-image: url(../images/svg/bx-az.svg);
+}
+
+.bx.lang-bs {
+    background-image: url(../images/svg/bx-bs.svg);
+}
+
+.bx.lang-bh {
+    background-image: url(../images/svg/bx-bh.svg);
+}
+
+.bx.lang-bd {
+    background-image: url(../images/svg/bx-bd.svg);
+}
+
+.bx.lang-bb {
+    background-image: url(../images/svg/bx-bb.svg);
+}
+
+.bx.lang-basque {
+    background-image: url(../images/svg/bx-basque.svg);
+}
+
+.bx.lang-by {
+    background-image: url(../images/svg/bx-by.svg);
+}
+
+.bx.lang-be {
+    background-image: url(../images/svg/bx-be.svg);
+}
+
+.bx.lang-bz {
+    background-image: url(../images/svg/bx-bz.svg);
+}
+
+.bx.lang-bj {
+    background-image: url(../images/svg/bx-bj.svg);
+}
+
+.bx.lang-bm {
+    background-image: url(../images/svg/bx-bm.svg);
+}
+
+.bx.lang-bt {
+    background-image: url(../images/svg/bx-bt.svg);
+}
+
+.bx.lang-bo {
+    background-image: url(../images/svg/bx-bo.svg);
+}
+
+.bx.lang-bosnia-herzegovina {
+    background-image: url(../images/svg/bx-bosnia-herzegovina.svg);
+}
+
+.bx.lang-bw {
+    background-image: url(../images/svg/bx-bw.svg);
+}
+
+.bx.lang-br {
+    background-image: url(../images/svg/bx-br.svg);
+}
+
+.bx.lang-vg {
+    background-image: url(../images/svg/bx-vg.svg);
+}
+
+.bx.lang-bn {
+    background-image: url(../images/svg/bx-bn.svg);
+}
+
+.bx.lang-bg {
+    background-image: url(../images/svg/bx-bg.svg);
+}
+
+.bx.lang-bf {
+    background-image: url(../images/svg/bx-bf.svg);
+}
+
+.bx.lang-bi {
+    background-image: url(../images/svg/bx-bi.svg);
+}
+
+.bx.lang-kh {
+    background-image: url(../images/svg/bx-kh.svg);
+}
+
+.bx.lang-cm {
+    background-image: url(../images/svg/bx-cm.svg);
+}
+
+.bx.lang-ca {
+    background-image: url(../images/svg/bx-ca.svg);
+}
+
+.bx.lang-canary-islands {
+    background-image: url(../images/svg/bx-canary-islands.svg);
+}
+
+.bx.lang-cv {
+    background-image: url(../images/svg/bx-cv.svg);
+}
+
+.bx.lang-ky {
+    background-image: url(../images/svg/bx-ky.svg);
+}
+
+.bx.lang-cf {
+    background-image: url(../images/svg/bx-cf.svg);
+}
+
+.bx.lang-td {
+    background-image: url(../images/svg/bx-td.svg);
+}
+
+.bx.lang-cl {
+    background-image: url(../images/svg/bx-cl.svg);
+}
+
+.bx.lang-cn {
+    background-image: url(../images/svg/bx-cn.svg);
+}
+
+.bx.lang-co {
+    background-image: url(../images/svg/bx-co.svg);
+}
+
+.bx.lang-km {
+    background-image: url(../images/svg/bx-km.svg);
+}
+
+.bx.lang-ck {
+    background-image: url(../images/svg/bx-ck.svg);
+}
+
+.bx.lang-cr {
+    background-image: url(../images/svg/bx-cr.svg);
+}
+
+.bx.lang-hr {
+    background-image: url(../images/svg/bx-hr.svg);
+}
+
+.bx.lang-cu {
+    background-image: url(../images/svg/bx-cu.svg);
+}
+
+.bx.lang-curacao {
+    background-image: url(../images/svg/bx-curacao.svg);
+}
+
+.bx.lang-cy {
+    background-image: url(../images/svg/bx-cy.svg);
+}
+
+.bx.lang-cz {
+    background-image: url(../images/svg/bx-cz.svg);
+}
+
+.bx.lang-democratic-republic-of-congo {
+    background-image: url(../images/svg/bx-democratic-republic-of-congo.svg);
+}
+
+.bx.lang-dk {
+    background-image: url(../images/svg/bx-dk.svg);
+}
+
+.bx.lang-dj {
+    background-image: url(../images/svg/bx-dj.svg);
+}
+
+.bx.lang-dm {
+    background-image: url(../images/svg/bx-dm.svg);
+}
+
+.bx.lang-do {
+    background-image: url(../images/svg/bx-do.svg);
+}
+
+.bx.lang-east-timor {
+    background-image: url(../images/svg/bx-east-timor.svg);
+}
+
+.bx.lang-ec {
+    background-image: url(../images/svg/bx-ec.svg);
+}
+
+.bx.lang-eg {
+    background-image: url(../images/svg/bx-eg.svg);
+}
+
+.bx.lang-sv {
+    background-image: url(../images/svg/bx-sv.svg);
+}
+
+.bx.lang-england {
+    background-image: url(../images/svg/bx-england.svg);
+}
+
+.bx.lang-gq {
+    background-image: url(../images/svg/bx-gq.svg);
+}
+
+.bx.lang-er {
+    background-image: url(../images/svg/bx-er.svg);
+}
+
+.bx.lang-ee {
+    background-image: url(../images/svg/bx-ee.svg);
+}
+
+.bx.lang-sz {
+    background-image: url(../images/svg/bx-sz.svg);
+}
+
+.bx.lang-et {
+    background-image: url(../images/svg/bx-et.svg);
+}
+
+.bx.lang-europe {
+    background-image: url(../images/svg/bx-europe.svg);
+}
+
+.bx.lang-fk {
+    background-image: url(../images/svg/bx-fk.svg);
+}
+
+.bx.lang-fo {
+    background-image: url(../images/svg/bx-fo.svg);
+}
+
+.bx.lang-fj {
+    background-image: url(../images/svg/bx-fj.svg);
+}
+
+.bx.lang-fi {
+    background-image: url(../images/svg/bx-fi.svg);
+}
+
+.bx.lang-fr {
+    background-image: url(../images/svg/bx-fr.svg);
+}
+
+.bx.lang-gf {
+    background-image: url(../images/svg/bx-gf.svg);
+}
+
+.bx.lang-pf {
+    background-image: url(../images/svg/bx-pf.svg);
+}
+
+.bx.lang-ga {
+    background-image: url(../images/svg/bx-ga.svg);
+}
+
+.bx.lang-gm {
+    background-image: url(../images/svg/bx-gm.svg);
+}
+
+.bx.lang-ge {
+    background-image: url(../images/svg/bx-ge.svg);
+}
+
+.bx.lang-de {
+    background-image: url(../images/svg/bx-de.svg);
+}
+
+.bx.lang-gh {
+    background-image: url(../images/svg/bx-gh.svg);
+}
+
+.bx.lang-gi {
+    background-image: url(../images/svg/bx-gi.svg);
+}
+
+.bx.lang-gr {
+    background-image: url(../images/svg/bx-gr.svg);
+}
+
+.bx.lang-gl {
+    background-image: url(../images/svg/bx-gl.svg);
+}
+
+.bx.lang-gd {
+    background-image: url(../images/svg/bx-gd.svg);
+}
+
+.bx.lang-gp {
+    background-image: url(../images/svg/bx-gp.svg);
+}
+
+.bx.lang-gt {
+    background-image: url(../images/svg/bx-gt.svg);
+}
+
+.bx.lang-gg {
+    background-image: url(../images/svg/bx-gg.svg);
+}
+
+.bx.lang-gn {
+    background-image: url(../images/svg/bx-gn.svg);
+}
+
+.bx.lang-guinea-bissau {
+    background-image: url(../images/svg/bx-guinea-bissau.svg);
+}
+
+.bx.lang-gy {
+    background-image: url(../images/svg/bx-gy.svg);
+}
+
+.bx.lang-ht {
+    background-image: url(../images/svg/bx-ht.svg);
+}
+
+.bx.lang-hawaii {
+    background-image: url(../images/svg/bx-hawaii.svg);
+}
+
+.bx.lang-hn {
+    background-image: url(../images/svg/bx-hn.svg);
+}
+
+.bx.lang-hk {
+    background-image: url(../images/svg/bx-hk.svg);
+}
+
+.bx.lang-hu {
+    background-image: url(../images/svg/bx-hu.svg);
+}
+
+.bx.lang-is {
+    background-image: url(../images/svg/bx-is.svg);
+}
+
+.bx.lang-in {
+    background-image: url(../images/svg/bx-in.svg);
+}
+
+.bx.lang-id {
+    background-image: url(../images/svg/bx-id.svg);
+}
+
+.bx.lang-ir {
+    background-image: url(../images/svg/bx-ir.svg);
+}
+
+.bx.lang-iq {
+    background-image: url(../images/svg/bx-iq.svg);
+}
+
+.bx.lang-ie {
+    background-image: url(../images/svg/bx-ie.svg);
+}
+
+.bx.lang-isle-of-man {
+    background-image: url(../images/svg/bx-isle-of-man.svg);
+}
+
+.bx.lang-il {
+    background-image: url(../images/svg/bx-il.svg);
+}
+
+.bx.lang-it {
+    background-image: url(../images/svg/bx-it.svg);
+}
+
+.bx.lang-ci {
+    background-image: url(../images/svg/bx-ci.svg);
+}
+
+.bx.lang-jm {
+    background-image: url(../images/svg/bx-jm.svg);
+}
+
+.bx.lang-jp {
+    background-image: url(../images/svg/bx-jp.svg);
+}
+
+.bx.lang-je {
+    background-image: url(../images/svg/bx-je.svg);
+}
+
+.bx.lang-jo {
+    background-image: url(../images/svg/bx-jo.svg);
+}
+
+.bx.lang-kz {
+    background-image: url(../images/svg/bx-kz.svg);
+}
+
+.bx.lang-ke {
+    background-image: url(../images/svg/bx-ke.svg);
+}
+
+.bx.lang-ki {
+    background-image: url(../images/svg/bx-ki.svg);
+}
+
+.bx.lang-xk {
+    background-image: url(../images/svg/bx-xk.svg);
+}
+
+.bx.lang-kurdistan {
+    background-image: url(../images/svg/bx-kurdistan.svg);
+}
+
+.bx.lang-kw {
+    background-image: url(../images/svg/bx-kw.svg);
+}
+
+.bx.lang-kg {
+    background-image: url(../images/svg/bx-kg.svg);
+}
+
+.bx.lang-la {
+    background-image: url(../images/svg/bx-la.svg);
+}
+
+.bx.lang-lv {
+    background-image: url(../images/svg/bx-lv.svg);
+}
+
+.bx.lang-lb {
+    background-image: url(../images/svg/bx-lb.svg);
+}
+
+.bx.lang-ls {
+    background-image: url(../images/svg/bx-ls.svg);
+}
+
+.bx.lang-lr {
+    background-image: url(../images/svg/bx-lr.svg);
+}
+
+.bx.lang-ly {
+    background-image: url(../images/svg/bx-ly.svg);
+}
+
+.bx.lang-li {
+    background-image: url(../images/svg/bx-li.svg);
+}
+
+.bx.lang-lt {
+    background-image: url(../images/svg/bx-lt.svg);
+}
+
+.bx.lang-lu {
+    background-image: url(../images/svg/bx-lu.svg);
+}
+
+.bx.lang-mo {
+    background-image: url(../images/svg/bx-mo.svg);
+}
+
+.bx.lang-mg {
+    background-image: url(../images/svg/bx-mg.svg);
+}
+
+.bx.lang-mw {
+    background-image: url(../images/svg/bx-mw.svg);
+}
+
+.bx.lang-my {
+    background-image: url(../images/svg/bx-my.svg);
+}
+
+.bx.lang-mv {
+    background-image: url(../images/svg/bx-mv.svg);
+}
+
+.bx.lang-ml {
+    background-image: url(../images/svg/bx-ml.svg);
+}
+
+.bx.lang-mt {
+    background-image: url(../images/svg/bx-mt.svg);
+}
+
+.bx.lang-mh {
+    background-image: url(../images/svg/bx-mh.svg);
+}
+
+.bx.lang-mq {
+    background-image: url(../images/svg/bx-mq.svg);
+}
+
+.bx.lang-mr {
+    background-image: url(../images/svg/bx-mr.svg);
+}
+
+.bx.lang-mu {
+    background-image: url(../images/svg/bx-mu.svg);
+}
+
+.bx.lang-mx {
+    background-image: url(../images/svg/bx-mx.svg);
+}
+
+.bx.lang-fm {
+    background-image: url(../images/svg/bx-fm.svg);
+}
+
+.bx.lang-md {
+    background-image: url(../images/svg/bx-md.svg);
+}
+
+.bx.lang-mc {
+    background-image: url(../images/svg/bx-mc.svg);
+}
+
+.bx.lang-mn {
+    background-image: url(../images/svg/bx-mn.svg);
+}
+
+.bx.lang-me {
+    background-image: url(../images/svg/bx-me.svg);
+}
+
+.bx.lang-ma {
+    background-image: url(../images/svg/bx-ma.svg);
+}
+
+.bx.lang-mozanbique {
+    background-image: url(../images/svg/bx-mozanbique.svg);
+}
+
+.bx.lang-mm {
+    background-image: url(../images/svg/bx-mm.svg);
+}
+
+.bx.lang-na {
+    background-image: url(../images/svg/bx-na.svg);
+}
+
+.bx.lang-nr {
+    background-image: url(../images/svg/bx-nr.svg);
+}
+
+.bx.lang-np {
+    background-image: url(../images/svg/bx-np.svg);
+}
+
+.bx.lang-nl {
+    background-image: url(../images/svg/bx-nl.svg);
+}
+
+.bx.lang-netherlands-antilles {
+    background-image: url(../images/svg/bx-netherlands-antilles.svg);
+}
+
+.bx.lang-nc {
+    background-image: url(../images/svg/bx-nc.svg);
+}
+
+.bx.lang-nz {
+    background-image: url(../images/svg/bx-nz.svg);
+}
+
+.bx.lang-ni {
+    background-image: url(../images/svg/bx-ni.svg);
+}
+
+.bx.lang-ne {
+    background-image: url(../images/svg/bx-ne.svg);
+}
+
+.bx.lang-ng {
+    background-image: url(../images/svg/bx-ng.svg);
+}
+
+.bx.lang-nu {
+    background-image: url(../images/svg/bx-nu.svg);
+}
+
+.bx.lang-northen-ireland {
+    background-image: url(../images/svg/bx-northen-ireland.svg);
+}
+
+.bx.lang-kp {
+    background-image: url(../images/svg/bx-kp.svg);
+}
+
+.bx.lang-mk {
+    background-image: url(../images/svg/bx-mk.svg);
+}
+
+.bx.lang-no {
+    background-image: url(../images/svg/bx-no.svg);
+}
+
+.bx.lang-om {
+    background-image: url(../images/svg/bx-om.svg);
+}
+
+.bx.lang-pk {
+    background-image: url(../images/svg/bx-pk.svg);
+}
+
+.bx.lang-pw {
+    background-image: url(../images/svg/bx-pw.svg);
+}
+
+.bx.lang-ps {
+    background-image: url(../images/svg/bx-ps.svg);
+}
+
+.bx.lang-pa {
+    background-image: url(../images/svg/bx-pa.svg);
+}
+
+.bx.lang-pg {
+    background-image: url(../images/svg/bx-pg.svg);
+}
+
+.bx.lang-py {
+    background-image: url(../images/svg/bx-py.svg);
+}
+
+.bx.lang-pe {
+    background-image: url(../images/svg/bx-pe.svg);
+}
+
+.bx.lang-ph {
+    background-image: url(../images/svg/bx-ph.svg);
+}
+
+.bx.lang-pl {
+    background-image: url(../images/svg/bx-pl.svg);
+}
+
+.bx.lang-pt {
+    background-image: url(../images/svg/bx-pt.svg);
+}
+
+.bx.lang-pr {
+    background-image: url(../images/svg/bx-pr.svg);
+}
+
+.bx.lang-qa {
+    background-image: url(../images/svg/bx-qa.svg);
+}
+
+.bx.lang-republic-congo {
+    background-image: url(../images/svg/bx-republic-congo.svg);
+}
+
+.bx.lang-ro {
+    background-image: url(../images/svg/bx-ro.svg);
+}
+
+.bx.lang-ru {
+    background-image: url(../images/svg/bx-ru.svg);
+}
+
+.bx.lang-rw {
+    background-image: url(../images/svg/bx-rw.svg);
+}
+
+.bx.lang-saint-kitts-nevis {
+    background-image: url(../images/svg/bx-saint-kitts-nevis.svg);
+}
+
+.bx.lang-lc {
+    background-image: url(../images/svg/bx-lc.svg);
+}
+
+.bx.lang-saint-vincent-grenadines {
+    background-image: url(../images/svg/bx-saint-vincent-grenadines.svg);
+}
+
+.bx.lang-ws {
+    background-image: url(../images/svg/bx-ws.svg);
+}
+
+.bx.lang-sm {
+    background-image: url(../images/svg/bx-sm.svg);
+}
+
+.bx.lang-sao-tome-principe {
+    background-image: url(../images/svg/bx-sao-tome-principe.svg);
+}
+
+.bx.lang-sa {
+    background-image: url(../images/svg/bx-sa.svg);
+}
+
+.bx.lang-scotland {
+    background-image: url(../images/svg/bx-scotland.svg);
+}
+
+.bx.lang-sn {
+    background-image: url(../images/svg/bx-sn.svg);
+}
+
+.bx.lang-rs {
+    background-image: url(../images/svg/bx-rs.svg);
+}
+
+.bx.lang-sc {
+    background-image: url(../images/svg/bx-sc.svg);
+}
+
+.bx.lang-sl {
+    background-image: url(../images/svg/bx-sl.svg);
+}
+
+.bx.lang-sg {
+    background-image: url(../images/svg/bx-sg.svg);
+}
+
+.bx.lang-sx {
+    background-image: url(../images/svg/bx-sx.svg);
+}
+
+.bx.lang-sk {
+    background-image: url(../images/svg/bx-sk.svg);
+}
+
+.bx.lang-si {
+    background-image: url(../images/svg/bx-si.svg);
+}
+
+.bx.lang-sb {
+    background-image: url(../images/svg/bx-sb.svg);
+}
+
+.bx.lang-so {
+    background-image: url(../images/svg/bx-so.svg);
+}
+
+.bx.lang-za {
+    background-image: url(../images/svg/bx-za.svg);
+}
+
+.bx.lang-south-georgia-sandwich-islands {
+    background-image: url(../images/svg/bx-south-georgia-sandwich-islands.svg);
+}
+
+.bx.lang-kr {
+    background-image: url(../images/svg/bx-kr.svg);
+}
+
+.bx.lang-ss {
+    background-image: url(../images/svg/bx-ss.svg);
+}
+
+.bx.lang-es {
+    background-image: url(../images/svg/bx-es.svg);
+}
+
+.bx.lang-lk {
+    background-image: url(../images/svg/bx-lk.svg);
+}
+
+.bx.lang-sd {
+    background-image: url(../images/svg/bx-sd.svg);
+}
+
+.bx.lang-sr {
+    background-image: url(../images/svg/bx-sr.svg);
+}
+
+.bx.lang-se {
+    background-image: url(../images/svg/bx-se.svg);
+}
+
+.bx.lang-ch {
+    background-image: url(../images/svg/bx-ch.svg);
+}
+
+.bx.lang-sy {
+    background-image: url(../images/svg/bx-sy.svg);
+}
+
+.bx.lang-tw {
+    background-image: url(../images/svg/bx-tw.svg);
+}
+
+.bx.lang-tj {
+    background-image: url(../images/svg/bx-tj.svg);
+}
+
+.bx.lang-tz {
+    background-image: url(../images/svg/bx-tz.svg);
+}
+
+.bx.lang-th {
+    background-image: url(../images/svg/bx-th.svg);
+}
+
+.bx.lang-tg {
+    background-image: url(../images/svg/bx-tg.svg);
+}
+
+.bx.lang-to {
+    background-image: url(../images/svg/bx-to.svg);
+}
+
+.bx.lang-trinidad-tobago {
+    background-image: url(../images/svg/bx-trinidad-tobago.svg);
+}
+
+.bx.lang-tn {
+    background-image: url(../images/svg/bx-tn.svg);
+}
+
+.bx.lang-turkey {
+    background-image: url(../images/svg/bx-turkey.svg);
+}
+
+.bx.lang-tm {
+    background-image: url(../images/svg/bx-tm.svg);
+}
+
+.bx.lang-turks-and-caicos-islands {
+    background-image: url(../images/svg/bx-turks-and-caicos-islands.svg);
+}
+
+.bx.lang-tv {
+    background-image: url(../images/svg/bx-tv.svg);
+}
+
+.bx.lang-ug {
+    background-image: url(../images/svg/bx-ug.svg);
+}
+
+.bx.lang-ua {
+    background-image: url(../images/svg/bx-ua.svg);
+}
+
+.bx.lang-ae {
+    background-image: url(../images/svg/bx-ae.svg);
+}
+
+.bx.lang-gb {
+    background-image: url(../images/svg/bx-gb.svg);
+}
+
+.bx.lang-us {
+    background-image: url(../images/svg/bx-us.svg);
+}
+
+.bx.lang-usa-virgin-islands {
+    background-image: url(../images/svg/bx-usa-virgin-islands.svg);
+}
+
+.bx.lang-uy {
+    background-image: url(../images/svg/bx-uy.svg);
+}
+
+.bx.lang-uz {
+    background-image: url(../images/svg/bx-uz.svg);
+}
+
+.bx.lang-vu {
+    background-image: url(../images/svg/bx-vu.svg);
+}
+
+.bx.lang-va {
+    background-image: url(../images/svg/bx-va.svg);
+}
+
+.bx.lang-ve {
+    background-image: url(../images/svg/bx-ve.svg);
+}
+
+.bx.lang-vn {
+    background-image: url(../images/svg/bx-vn.svg);
+}
+
+.bx.lang-gb-wls {
+    background-image: url(../images/svg/bx-gb-wls.svg);
+}
+
+.bx.lang-eh {
+    background-image: url(../images/svg/bx-eh.svg);
+}
+
+.bx.lang-ye {
+    background-image: url(../images/svg/bx-ye.svg);
+}
+
+.bx.lang-zm {
+    background-image: url(../images/svg/bx-zm.svg);
+}
+
+.bx.lang-zw {
+    background-image: url(../images/svg/bx-zw.svg);
+}

@@ -566,6 +566,7 @@ if ( ! class_exists( 'CSF_Setup' ) ) {
       $min = ( self::$premium && SCRIPT_DEBUG ) ? '' : '.min';
 
       // Main style
+      wp_enqueue_style( 'bxflags', self::include_plugin_url( 'assets/css/bx-flags'. $min .'.css' ), array(), self::$version, 'all' );
       wp_enqueue_style( 'csf', self::include_plugin_url( 'assets/css/style'. $min .'.css' ), array(), self::$version, 'all' );
 
       // Main RTL styles
