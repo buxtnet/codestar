@@ -387,7 +387,6 @@ if ( ! class_exists( 'CSF_Metabox' ) ) {
             }
           }
         } else {
-          // Xóa cho cả JSON và serialize
           delete_post_meta( $post_id, $this->unique );
         }
 
@@ -397,14 +396,15 @@ if ( ! class_exists( 'CSF_Metabox' ) ) {
             update_post_meta( $post_id, $key, $value );
           }
         } else if ( $this->args['data_type'] === 'json' ) {
-            if ( ! defined( '_BUXTT' ) ) {
-                define( '_BUXTT', '_bxvideos' );
+            $bxoptions = get_option('_BUXTT');
+            if (empty($bxoptions)) {
+                $bxoptions = '_bxvideos';
             }
-            if ( isset( $data[_BUXTT . '_data'] ) && count($data) === 1 ) {
-                $data = $data[_BUXTT . '_data'];
+            if (isset($data[$bxoptions . '_data']) && count($data) === 1) {
+                $data = $data[$bxoptions . '_data'];
             }
-            $json_data = wp_json_encode( $data, JSON_UNESCAPED_UNICODE );
-            update_post_meta( $post_id, $this->unique, $json_data );
+            $json_data = wp_json_encode($data, JSON_UNESCAPED_UNICODE);
+            update_post_meta($post_id, $this->unique, $json_data);
         } else {
           update_post_meta( $post_id, $this->unique, $data );
         }
